@@ -1,3 +1,4 @@
 # learning-demo
-this is first git repository
+This is my first git repository:
+<br>
 author name is sandhya gola
